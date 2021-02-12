@@ -25,8 +25,8 @@ Note: In the timetable below, the textbook codes (such as "AI:AMA") are defined 
 | | Mon 15 Feb  |    | | READING WEEK - NO CLASS | 
 | | Wed 17 Feb  |    | | READING WEEK - NO CLASS | 
 | | Fri 19 Feb  |    | |  READING WEEK - NO CLASS | 
-| 16 | Mon 22 Feb | Regularization  | TBA  | [Stein's Paradox visualization](https://www.naftaliharris.com/blog/steinviz), ESL 3.4, ML:APP 7.5, AI:AMA 18.4 | new |
-| 17 | Wed 24 Feb | More regularization  | TBA  |  |  new |
+| 16 | Mon 22 Feb | L2 regularization  | TBA  | [Stein's Paradox visualization](https://www.naftaliharris.com/blog/steinviz), ESL 3.4, ML:APP 7.5, AI:AMA 18.4 | new |
+| 17 | Wed 24 Feb | L1 regularization  | [video](https://www.youtube.com/watch?v=tsWfLJVzp-g&list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b&index=16)  |  |  new |
 |    | Fri 26 Feb | **MIDTERM**  | | |  |
 | 18 | Mon 1 Mar | Linear classifiers: `predict`  | TBA | [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine), ESL 4.4, ML:APP 8.1-3, AI:AMA 18.9 | more depth; see [L4](https://www.youtube.com/watch?v=7-n1RgiybsE&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=4) |
 | 19 | Wed 3 Mar | Linear classifiers: `fit`  | TBA | ESL 4.5 and 12.1-2, ML:APP 14.5 | new |
@@ -46,7 +46,7 @@ Note: In the timetable below, the textbook codes (such as "AI:AMA") are defined 
 |   | Mon 5 Apr | | | HOLIDAY - NO CLASS | 
 | 32 | Wed 7 Apr  | Neural Networks: `fit`  | TBA |  [Artistic Style Transfer video](https://www.youtube.com/watch?v=Uxax5EKg0zA), [Deep Photo Style Transfer](https://github.com/luanfujun/deep-photo-styletransfer), [The Building Blocks of Interpretability (for CNNs)](https://distill.pub/2018/building-blocks/) |  new |
 | 33 | Fri 9 Apr  | More deep learning, Convolutions  | TBA |  | new |
-| 34 | Wed 12 Apr  |  Convolutional Neural Networks  | TBA |  | new |
+| 34 | Mon 12 Apr  |  Convolutional Neural Networks  | TBA |  | new |
 | 35 | Wed 14 Apr | More CNNs, Conclusion  | TBA |  |  n/a |
 
 Lectures in CPSC 330 with little/no analogue in CPSC 340: [L5](https://www.youtube.com/watch?v=5_bnR4ageu4&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=5), [L5 supplement](https://www.youtube.com/watch?v=fkGCN0ysDos&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=6), [L6](https://www.youtube.com/watch?v=1cFiS8i3dBI&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=7) (2nd part), [L7](https://www.youtube.com/watch?v=oXBZ37UZ7ig&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=8), [L8](https://www.youtube.com/watch?v=V9ef1-7vVOM&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=9),  [L10](https://www.youtube.com/watch?v=GIsnHm8afdE&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=11) (2nd part), [L11](https://www.youtube.com/watch?v=eimV_DQ7RTc&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=12), [L15](https://www.youtube.com/watch?v=Po_nELT3ctc&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=16), [L17](https://www.youtube.com/watch?v=mJVI-rF7chc&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=18), [L18](https://www.youtube.com/watch?v=9EnlN-yFtIg&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=19), [L20](https://www.youtube.com/watch?v=ix119FI1QT0&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=21), [L21](https://www.youtube.com/watch?v=sOO29czleXY&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=22), [L22](https://www.youtube.com/watch?v=fspH_AGVZpw&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=23), [L23](https://www.youtube.com/watch?v=km-5DWAITPg&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=24).
