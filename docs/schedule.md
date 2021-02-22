@@ -25,7 +25,7 @@ Note: In the timetable below, the textbook codes (such as "AI:AMA") are defined 
 | | Mon 15 Feb  |    | | READING WEEK - NO CLASS | 
 | | Wed 17 Feb  |    | | READING WEEK - NO CLASS | 
 | | Fri 19 Feb  |    | |  READING WEEK - NO CLASS | 
-| 16 | Mon 22 Feb | [L2 regularization](../lectures/16_l2-regularization.ipynb)  | [video](https://www.youtube.com/watch?v=bBOSykZjvK4&list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b&index=15)  | [Stein's Paradox visualization](https://www.naftaliharris.com/blog/steinviz), ESL 3.4, ML:APP 7.5, AI:AMA 18.4 | new |
+| 16 | Mon 22 Feb | [L2 regularization](../lectures/16_l2-regularization.ipynb)  | [video](https://www.youtube.com/watch?v=bBOSykZjvK4&list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b&index=15)  | [Bonus slides](../lectures/bonus/16_l2_regularization_bonus.pdf), [Stein's Paradox visualization](https://www.naftaliharris.com/blog/steinviz), ESL 3.4, ML:APP 7.5, AI:AMA 18.4 | new |
 | 17 | Wed 24 Feb | L1 regularization  | [video](https://www.youtube.com/watch?v=tsWfLJVzp-g&list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b&index=16)  |  |  new |
 |    | Fri 26 Feb | **MIDTERM**  | | |  |
 | 18 | Mon 1 Mar | Linear classifiers: `predict`  | [video](https://www.youtube.com/watch?v=GMEDGjpJycA&list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b&index=18) | [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine), ESL 4.4, ML:APP 8.1-3, AI:AMA 18.9 | more depth; see [L4](https://www.youtube.com/watch?v=7-n1RgiybsE&list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC&index=4) |
