@@ -105,7 +105,7 @@ The midterm exam will take place on Friday, Feb 26, 2021 during class time. The 
 
 ## Final exam
 
-The final exam will be held during the exam period but it will be take-home in the sense that you will have 24-48 hours to complete it (exact duration TBD). The exam will be open book, meaning you are allowed to consult course materials, the internet, etc. However, you are NOT allowed to communicate with anyone else in any way during the exam. 
+The final exam will consist of two parts, equally weighted, both to be completed between April 19 at 9:45am Vancouver time and April 21 at 9:45am Vancouver time. For the written portion on Canvas, you will have a time limit of 100 minutes from whenever you start working on it. For the coding portion, you will have no time limit (other than the 48 hour limit) and will submit your work on Gradesscope. The exam will be open book, meaning you are allowed to consult course materials, the internet, etc. However, you are NOT allowed to communicate with anyone else in any way during the exam. 
 
 ## Code of conduct
 
