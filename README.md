@@ -1,3 +1,7 @@
+Course notes from ML class at UBC.
+
+Original readme:
+
 # CPSC 340: Machine Learning and Data Mining (2020W2)
 
 Course documents:
